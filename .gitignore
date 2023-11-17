@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 .env
+*.jpg
+*.png
+lab4/best_model.pth
+lab4/chest_xray/*
