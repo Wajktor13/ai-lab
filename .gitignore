@@ -4,3 +4,9 @@
 *.png
 lab4/best_model.pth
 lab4/chest_xray/*
+lab5/poquad-train.json
+lab5/output/*
+lab5/output2/*
+lab5/QA/*
+lab5/question-context-classification/*
+lab5/poquad-dev.json
