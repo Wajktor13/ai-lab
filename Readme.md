@@ -8,6 +8,7 @@
 * [Podejmowanie decyzji](lab6/Readme.md)
 * [Algorytmy rekomendacyjne](lab7/Readme.md)
 
+
 # Zasady zaliczania laboratoriów
 
 Zasady zaliczania laboratoriów dostępne są w dokumencie przypisanym do kursu na Teamsach.
