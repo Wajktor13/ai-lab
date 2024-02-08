@@ -3,10 +3,11 @@
 Cele laboratorium jest przedstawienie algorytmów związanych z podejmowaniem 
 decyzji i ich zastosowaniami w prostych grach.
 
-1. Wykorzystanie heurystyk w podejmowaniu decyzji.
-2. Algorytm minimax.
-3. Alpha-beta pruning.
-4. Monte Carlo tree search (MCTS).
-
+Zadanie polega na implementacji różnych algorytmów gracza w grze w kółko i krzyżyk:
+* gracza losowego,
+* gracza opartego o heurystykę,
+* gracza wykorzystującego algorytm minimaks,
+* gracza wykorzystującego algorytm alpha-beta pruning,
+* gracza wykorzystującego wyszukiwanie w oparciu o Monte Carlo Tree Search (MCTS).
 
 Zawartość laboratorium dostępna jest w [notebooku](lab_6.ipynb).
